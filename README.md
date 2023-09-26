@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Your Project Name
 
