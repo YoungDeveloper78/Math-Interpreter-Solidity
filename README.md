@@ -1,8 +1,8 @@
 
-# Your Project Name
+# Mathematics Interpreter Library
 
-[Short project description]
-
+    A Solidity library for mathematical expression interpretation.
+    
 ## Getting Started
 
 ### Prerequisites
@@ -42,10 +42,8 @@ Before you begin, ensure you have met the following requirements:
 
         Import the library at the beginning of your contract file:
 
-
-
-        // Import the MathematicsInterpreterLibrary
-        import "./MathematicsInterpreterLibrary.sol";
+            // Import the MathematicsInterpreterLibrary
+            import "./MathematicsInterpreterLibrary.sol";
 
 ## Deployment
 
@@ -58,9 +56,7 @@ Before you begin, ensure you have met the following requirements:
 ## License
 
     This project is licensed under the MIT License. See the LICENSE file for details.
-    Mathematics Interpreter Library
-
-    A Solidity library for mathematical expression interpretation.
+    
 
 ## Features
 
@@ -75,6 +71,4 @@ Before you begin, ensure you have met the following requirements:
 
 For any questions or support, please reach out to [parsaDeveloperBLC@gmail.com].
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
