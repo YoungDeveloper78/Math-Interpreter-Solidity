@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Your Project Name
 
 [Short project description]
