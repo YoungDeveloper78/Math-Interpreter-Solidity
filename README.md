@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 
     1. Clone the repository:
 
-        git clone https://github.com/yourusername/your-project.git
+        git clone [https://github.com/yourusername/your-project.git](https://github.com/YoungDeveloper78/MathInterpreterLibrary.git)
 
         Navigate to the project directory:
 
