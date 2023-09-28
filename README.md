@@ -1,5 +1,5 @@
 
-# Mathematics Interpreter Library
+# Mathematics Interpreter Solidity
 
     A Solidity library for mathematical expression interpretation.
     
